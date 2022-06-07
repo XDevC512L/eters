@@ -465,7 +465,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ete-rs"
+name = "eters"
 version = "0.1.0"
 dependencies = [
  "actix-web",
